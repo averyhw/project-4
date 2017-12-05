@@ -1,0 +1,4 @@
+curl https://api.seatgeek.com/2/events?client_id=MTU2NjA5MXwxNTEyMzc1MzQ5Ljgy
+curl https://api.seatgeek.com/2/events?client_id=MYCLIENTID&client_secret=4c6bad9ae1fb3eb14f796852ceadd2de80d7430d9faa3aa6100ba87e890034c3
+
+GET https://api.seatgeek.com/2/events?geoip=true;
